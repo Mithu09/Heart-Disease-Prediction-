@@ -74,7 +74,6 @@ Contributions to this project are welcome! If you have ideas for improvements, n
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to use this code and the provided dataset for your own projects and research, and please remember to cite the original dataset if you use it in academic or research publications.
 
 ---
 
